@@ -177,7 +177,7 @@ void printCalendar(int year)
 int main()
 {
 	int year;
-    printf("enter the year ");
+    printf("enter the year :\n ");
     scanf("%d",&year);
 
 	printCalendar(year);
